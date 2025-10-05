@@ -1,0 +1,55 @@
+body {
+    background-color: #78bfb8;
+}
+.titles {
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+    margin-top: 100px;
+    font-family: 'Federo', sans-serif;
+}
+
+.federo-regular {
+  font-family: "Federo", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+.oswald {
+  font-family: "Oswald", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.box {
+    width: 40%;
+    height: 60%;
+    margin: 0 auto;
+    background-color: #009183;
+    border: 2px solid #222;
+    border-radius: 20px;
+}
+
+.linki {
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+    font-family: 'federo', sans-serif;
+    margin-top: 5%;
+    margin-bottom: 30px;
+    display: block;
+    text-align: center;
+}
+
+.img {
+    background: none;
+}
+
+.container {
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.miau.webp {
+    width: 25%;
+}
